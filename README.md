@@ -11,6 +11,6 @@ Foi criado uma API RES, deenvolvida com Node.js com a base de dados em SQlite ju
 
 Utilizado a mais moderna tecnologia React.js  para  criação da pagina web no modelo SPA onde a página nunca recarrega, otimizando a performance e CSS para estilização da pagina.
 
-## Moile   
+## Mobile  
 
 Em desenvolvimento....
