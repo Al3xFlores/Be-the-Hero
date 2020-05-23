@@ -1,4 +1,4 @@
-![alt text](https://imgflip.com/gif/42kf1l)
+![](https://raw.githubusercontent.com/Al3xFlores/Be-the-Hero/master/frontend/src/pages/42kf1l%20(1).gif)
 
 # Be The Hero
 Finalizada a parte web da aplicação Be The Hero, com objetivo de conectar pessoas que possam doar para ONGS.
