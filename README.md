@@ -1,4 +1,6 @@
-![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRBFJoGE30DnN36PnzQoRNWAQJHogDCHXpUKjhdiasSw6ZjDwYo&usqp=CAU)
+
+
+
 # Be The Hero
 
 Finalizada a parte web da aplicação Be The Hero, com objetivo de conectar pessoas que possam doar para ONGS.
